@@ -15,10 +15,6 @@ author:
   github:           frontfest
   email:            frontfest@gmail.com
 
-# Google-analytics
-google-analytics:
-  id:               "UA-86817262-2"
-
 # URL
 #url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
 #url:                "http://localhost:4000" # use this url when develop
