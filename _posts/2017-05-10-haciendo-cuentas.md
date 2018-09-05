@@ -2,10 +2,10 @@
 layout: post
 title: Haciendo cuentas
 date: 2017-05-10
-description: ¡Publicamos las cuentas de la primera edición del Front Fest!
+description: ¡Publicamos las cuentas de la primera edición del FrontFest!
 
 ---
-Desde que nos reunimos por primera vez para esbozar lo que posteriormente se convertiría en el primer Front Fest, **uno de nuestros principales compromisos ha sido la transparencia**, tanto hacia los asistentes como con Campus Madrid, que nos cedió sus geniales instalaciones.
+Desde que nos reunimos por primera vez para esbozar lo que posteriormente se convertiría en el primer FrontFest, **uno de nuestros principales compromisos ha sido la transparencia**, tanto hacia los asistentes como con Campus Madrid, que nos cedió sus geniales instalaciones.
 
 Como lo prometido es deuda, y aunque sea con algo de retraso, en este post queremos dar cuenta de todos los ingresos y gastos que tuvimos a la hora de organizar la conferencia.
 
@@ -51,4 +51,4 @@ Como lo prometido es deuda, y aunque sea con algo de retraso, en este post quere
 
 Como podéis ver, la **diferencia entre ingresos y gastos (sin IVA) asciende a 2.852,30 euros**.
 
-El hecho de no haber tenido unas cuentas más ajustadas se debió, como ya hemos comentado en anteriores posts, a que **nuestras previsiones fueron muy conservadoras**, ya que era la primera vez que organizábamos algo de esta envergadura, y no contábamos con la excepcional aceptación que tuvo por parte de los patrocinadores y de los asistentes, a los cuales agradecemos enormemente la confianza en nosotros. El dinero sobrante queda guardado a buen recaudo para que en la próxima edición podamos arriesgar un poco más y seguir haciendo Front Fest lo mejor posible.
+El hecho de no haber tenido unas cuentas más ajustadas se debió, como ya hemos comentado en anteriores posts, a que **nuestras previsiones fueron muy conservadoras**, ya que era la primera vez que organizábamos algo de esta envergadura, y no contábamos con la excepcional aceptación que tuvo por parte de los patrocinadores y de los asistentes, a los cuales agradecemos enormemente la confianza en nosotros. El dinero sobrante queda guardado a buen recaudo para que en la próxima edición podamos arriesgar un poco más y seguir haciendo FrontFest lo mejor posible.

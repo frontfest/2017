@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inseparables Conchas Codan y Front Fest
+title: Inseparables Conchas Codan y FrontFest
 date: 2017-02-06
 description: Esas dos redondas y tiernas mitades unidas por un delicioso chocolate siempre han sido inseparables entre ellas e inseparables de los amantes de la tecnología.
 
@@ -15,7 +15,7 @@ Esas dos redondas y tiernas mitades unidas por un delicioso chocolate siempre ha
 
 Las Conchas Codan **son las originales**, las primeras en crearse y las más ricas, las únicas verdaderas.
 
-Este 18 de febrero os estarán esperando en el alucinante evento Front Fest, ¡no te las pierdas!
+Este 18 de febrero os estarán esperando en el alucinante evento FrontFest, ¡no te las pierdas!
 
 Recuerda participar en el **concurso** el día del evento para ganar un **lote de sus fantásticos productos y novedades**. Se elegirá un ganador por cada red social: Facebook, Instagram y Twitter.
 
@@ -23,11 +23,11 @@ Recuerda participar en el **concurso** el día del evento para ganar un **lote d
 
 - Seguir a **@productoscodan** en [Facebook](https://www.facebook.com/productoscodan), [Twitter](https://twitter.com/productoscodan) o [Instagram](https://www.instagram.com/productoscodan).
 
-- Sacarse una **foto** en la que se vea tanto la Concha Codan como algún elemento del Front Fest.
+- Sacarse una **foto** en la que se vea tanto la Concha Codan como algún elemento del FrontFest.
 
 - Subir la foto a alguna de las tres redes sociales mencionando a **@productoscodan** y con los hashtag **#InseparablesCodanFrontFest #LasOriginales**
 
-**¡Tus Conchas Codan te esperan en el Front Fest 2017!**
+**¡Tus Conchas Codan te esperan en el FrontFest 2017!**
 
 
 

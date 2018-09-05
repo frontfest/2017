@@ -2,9 +2,9 @@
 layout: post
 title: Cómo vendemos las entradas, elegimos las charlas y elaboramos la agenda, y por qué
 date: 2016-12-30
-description: Tras varios meses de preparativos, y tras publicar la agenda del evento y poner a la venta las primeras entradas, estamos entrando en la fase final de la organización de Front Fest. Queremos compartir todas las decisiones que hemos tomado hasta la fecha para ser lo más transparentes posible, así como comentar nuestras impresiones.
+description: Tras varios meses de preparativos, y tras publicar la agenda del evento y poner a la venta las primeras entradas, estamos entrando en la fase final de la organización de FrontFest. Queremos compartir todas las decisiones que hemos tomado hasta la fecha para ser lo más transparentes posible, así como comentar nuestras impresiones.
 ---
-**Tras varios meses de preparativos, y tras publicar la agenda del evento y poner a la venta las primeras entradas, estamos entrando en la fase final de la organización de Front Fest. Queremos compartir todas las decisiones que hemos tomado hasta la fecha para ser lo más transparentes posible, así como comentar nuestras impresiones.**
+**Tras varios meses de preparativos, y tras publicar la agenda del evento y poner a la venta las primeras entradas, estamos entrando en la fase final de la organización de FrontFest. Queremos compartir todas las decisiones que hemos tomado hasta la fecha para ser lo más transparentes posible, así como comentar nuestras impresiones.**
 
 Además, al igual que nosotros hemos aprendido de otros, queremos que nuestra experiencia pueda servir a quien quiera organizar cualquier tipo de evento en el mundo del desarrollo de software. 
 
@@ -22,7 +22,7 @@ Además, al igual que nosotros hemos aprendido de otros, queremos que nuestra ex
 
 - La selección de charlas se hizo en dos fases: primero hubo un **descarte previo de propuestas que no cumplían las expectativas**, ya fuera por querer abarcar demasiado, por no tener suficiente información para poder hacernos una mínima idea, por ser un tema demasiado trillado, por falta de originalidad, o por criterios similares. Se hizo un análisis por parte de todo el equipo, una por una. A no ser que todos estuviéramos a favor de descartar la charla, la charla pasaba a la segunda fase.
 
-- Posteriormente se hicieron tres grupos con las charlas restantes, con la intención de **diversificar la temática lo máximo posible**. Estos tres grupos eran **CSS (2)**, **Javascript (3)** y **HTML + Varios (4)**. La idea era que Front Fest no se convirtiera en un evento únicamente de JS, ya que, como era de esperar, la mayoría de las charlas tenían mucho que ver con este lenguaje, o incluso eran JS puro. La proporción fue una solución de compromiso entre las charlas recibidas y nuestras expectativas, enfocadas a este objetivo.
+- Posteriormente se hicieron tres grupos con las charlas restantes, con la intención de **diversificar la temática lo máximo posible**. Estos tres grupos eran **CSS (2)**, **Javascript (3)** y **HTML + Varios (4)**. La idea era que FrontFest no se convirtiera en un evento únicamente de JS, ya que, como era de esperar, la mayoría de las charlas tenían mucho que ver con este lenguaje, o incluso eran JS puro. La proporción fue una solución de compromiso entre las charlas recibidas y nuestras expectativas, enfocadas a este objetivo.
 
 - Dentro de cada uno de los tres grupos, se estableció un **sistema de votación estilo Eurovisión**, con la particularidad de que si había x charlas en el grupo, cada uno debía votar su charla favorita con x puntos, la siguiente con x-1, y así sucesivamente, hasta llegar a la menos favorita, a la cual se le otorgaba un punto. Se este modo se obligaba a que todo el mundo tuviera que tener una opinión sobre todas las charlas, y por tanto tuviera que esforzarse más en el análisis.
 

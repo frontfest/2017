@@ -1,4 +1,4 @@
-Front Fest
+FrontFest
 ===
 
-Web de Front Fest hecha en Jekyll
+Web de FrontFest hecha en Jekyll
