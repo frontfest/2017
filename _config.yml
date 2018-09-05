@@ -1,5 +1,5 @@
 # Build settings
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
@@ -7,10 +7,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-name:               "Front Fest"
+title:               "FrontFest 2017"
 
 author:
-  name:             Front Fest
+  name:             FrontFest
   twitter:          frontfest
   github:           frontfest
   email:            frontfest@gmail.com
